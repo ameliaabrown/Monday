@@ -1,2 +1,3 @@
 Today is monday.
 No, it is tuesday.
+Tomorrow is wednesday
